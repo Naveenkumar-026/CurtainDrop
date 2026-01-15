@@ -46,7 +46,7 @@ Restores only what was changed in the associated `state.json`, in order:
 Open **PowerShell as Administrator** in the project directory:
 
 ```powershell
-cd "C:\Users\Silencio\Desktop\CurtainDrop"
+cd CurtainDrop
 ```
 
 ### 1) Safe report check (no changes)
@@ -166,7 +166,7 @@ If you want zero risk of UI impact, run Panic with `-FreezeMode Off`.
 Your current layout:
 
 ```
-C:.
+\CurtainDrop
 |   CurtainDrop.ps1
 |   pssuspend.exe
 |
