@@ -1,0 +1,22 @@
+# CurtainDrop
+# Keep run artifacts local (contain logs, instance IDs, machine/user context)
+runs/
+
+# Optional: keep Sysinternals binary out of git if you don't want to redistribute it
+pssuspend.exe
+tools/pssuspend.exe
+
+# Common local clutter
+*.zip
+*.log
+*.tmp
+*.bak
+*.old
+*.swp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
