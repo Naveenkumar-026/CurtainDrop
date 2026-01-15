@@ -1,3 +1,17 @@
+<div align="center">
+
+# CurtainDrop
+
+**Panic-mode privacy lock for Windows. One command. Immediate silence. Immediate blackout. Clean restore.**
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows&logoColor=white)
+![Mode](https://img.shields.io/badge/Modes-Panic%20%7C%20Restore-111111)
+![Report](https://img.shields.io/badge/Report-HTML%20%2B%20state.json-111111)
+![Scope](https://img.shields.io/badge/Scope-Local%20%7C%20Defensive-0B3D2E)
+
+</div>
+
 # CurtainDrop
 **Panic-mode privacy lock for Windows. One command. Immediate silence. Immediate blackout. Clean restore.**
 
